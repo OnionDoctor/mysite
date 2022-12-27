@@ -13,4 +13,17 @@ My research interests mainly include Smart Construction and Intelligent Maintane
 
 #### About My Team
 
-My team is 
+My team is composed of several masters. According to the time they joined my team:
+
+####### 2021
+
+Qingren Mi, coming from Huaqiao University
+Jianan Wang, coming from Northeast Argricultural University
+
+####### 2022
+
+Zixuan Zhou, coming from Harbin Institute of Technology (Weihai)
+Jie Min, coming from Harbin Institute of Technology (Weihai)
+Yu Chen, coming from Wuhan University of Technology
+
+

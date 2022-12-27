@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "YANG XINCONG 杨新聪"
   avatar : "/assets/images/my-photo.jpg"
-  bio    : "I am a assistant professor at Harbin Institute of Technology (Shenzhen). My research interests include smart construction and intelligent operation."
+  bio    : "Assistant Professor at Harbin Institute of Technology Shenzhen"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
