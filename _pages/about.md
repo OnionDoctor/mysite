@@ -3,27 +3,30 @@ permalink: /about/
 title: "About"
 ---
 
-##### About Me
+##### Biography
 
-Hi, I am Xincong Yang (杨新聪)， an Assistant Professor at Harbin Institute of Technology (Shenzhen). 
+Xincong YANG (杨新聪) is an assistant professor in the School of Civil and Environmental Engineering at Harbin Institute of Technology (Shenzhen), teaching courses related to Construction Technology, Digital Construction I - Building Information Modelling (BIM) and Digital Construction II - Artificial Internet of Things (AIoT).
 
-Prior to joining HITSZ, I was a post doctoral fellow in Smart Construction Lab at the Hong Kong Polytechnic University. From 2014 to 2019, I obtained a dual-PhD in Construction Informatics and Structural Engineering from PolyU and HIT, respectively. From 2008 to 2012, I received my dual-bachelor in Civil Engineering and Project Management from HIT as well.
+Dr. Yang earned his PhD in Construction Informatics and Structural Engineering from Hong Kong Polytechnic University (PolyU) and Harbin Institute of Technology (HIT), respectively. Before joining HITSZ, he was also a postoral fellow at the Smart Construction Lab at PolyU.
 
-My research interests mainly include Smart Construction and Intelligent Maintanence. 
+His reseach focuses on Smart Construction and Intelligent Maintenance and Operation, specially detecting multiple exterior wall defects from multimodal resources through computer vision and deep learning techniques, and multifunctional digital twin at building, community and city scales through collective intelligence and UAV-UGV integration. He is currently working on reserach projects on space-air-surface monitoring of existing buildings and low-carbon digital twin models.
 
-##### About My Team
+##### About Team
 
-My team is composed of several masters. According to the time they joined my team:
+Dr. Yang's research group is composed of several masters.
 
-###### 2021
+**2021**
 
-Qingren Mi, coming from Huaqiao University
-Jianan Wang, coming from Northeast Argricultural University
+Qingren MI (米庆仁), graduated from Huaqiao University.
 
-###### 2022
+Jianan WANG (王嘉楠), graduated from Northeast Argricultural University.
 
-Zixuan Zhou, coming from Harbin Institute of Technology (Weihai)
-Jie Min, coming from Harbin Institute of Technology (Weihai)
-Yu Chen, coming from Wuhan University of Technology
+**2022**
+
+Zixuan ZHOU (周子璇), graduated from Harbin Institute of Technology (Weihai).
+
+Jie MIN (闵杰), graduated from Harbin Institute of Technology (Weihai).
+
+Yu CHEN (陈豫), graduated from Wuhan University of Technology.
 
 
