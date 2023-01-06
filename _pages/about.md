@@ -5,7 +5,7 @@ title: "About"
 
 ##### Biography
 
-**Xincong YANG** (杨新聪) is an assistant professor in the School of Civil and Environmental Engineering at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), teaching courses related to Construction Technology, Digital Construction I - Building Information Modelling (BIM) and Digital Construction II - Artificial Internet of Things (AIoT).
+**Xincong YANG** (杨新聪) is an assistant professor in the School of Civil and Environmental Engineering at [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), teaching courses related to Construction Technology (施工技术), Digital Construction I - Building Information Modelling (数字建造——建筑信息模型BIM) and Digital Construction II - Artificial Internet of Things (数字建造-智能物联网AIoT).
 
 Dr. Yang earned his PhD in Construction Informatics and Structural Engineering from [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/) and [Harbin Institute of Technology (HIT)](http://www.hit.edu.cn/), respectively. Before joining HITSZ, he was also a postoral fellow in the [Smart Construction Lab](https://www.sclab.hk/) at PolyU.
 
