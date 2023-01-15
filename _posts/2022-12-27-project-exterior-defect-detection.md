@@ -11,4 +11,4 @@ tags:
 
 Traditional way to inspect exterior walls in Hong Kong is always time- and labor-consuming. This project aims to establish a customized AI-based computer programme with photots/videos analytics, deep learning and pattern recognition technologies for automatic and intelligent identification of building defects in an accurate, efficient and cost-effective manner.
 
-[Crack detection](../assets/images/crack-detection.png)
+![Crack detection](../assets/images/crack-detection.png)
